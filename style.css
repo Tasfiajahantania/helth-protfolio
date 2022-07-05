@@ -1,0 +1,56 @@
+body{
+    font-family: 'Roboto Slab', serif;
+}
+span{
+    color: orangered;
+}
+.section-1{
+    display: flex;
+    width: 100%;
+}
+.half-width{
+    margin-left: 5%;
+}
+.half-width img{
+    width: 100%;
+}
+h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+p{
+    font-size: 20px;
+}
+a{
+    background-color: orangered;
+    padding: 7px;
+    color: aliceblue;
+    border-radius: 10px;
+    text-decoration: none;
+    margin-top: 10px;
+    box-shadow: 5px 6px 10px black;
+}
+a:hover{
+    background-color: black;
+    color: aliceblue;
+}
+
+.mainly{
+
+    background-image: url(images/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+    display: flex;
+    padding: 20px;
+    margin-top: 50px;
+
+}
+.about{
+    color: orangered;
+    font-size: 50px;
+    
+}
+button{
+    background-color: orangered;
+    color: aliceblue;
+    padding: 7px;
+}
